@@ -11,7 +11,7 @@ public class StudentInformationSystem {
         System.out.println("---------------------------------------");
         
         // ii. Store two marks using variables
-        double continuousAssessment = 45.5; 
+        double continuousAssessment = 49.0; 
         double finalExam = 38.0;             
         
         // iii. Calculate the total mark
